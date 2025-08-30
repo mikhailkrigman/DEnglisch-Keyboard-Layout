@@ -4,7 +4,7 @@
 
 The layout is intended for writers, developers, and anyone who prefers the US layout (for shortcuts and punctuation) but needs to type German seamlessly.
 
-![Denglisch Keyboard Layout — AltGr layer](denglisch-layout.png)
+![Denglisch Keyboard Layout — AltGr layer](denglisch-layout.jpg)
 
 ---
 
