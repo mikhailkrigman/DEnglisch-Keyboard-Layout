@@ -1,4 +1,4 @@
-# DEnglisch Keyboard Layout (by Mikhail Krigman)
+# DEnglisch Keyboard Layout
 
 **Denglisch** (Deutsch + English) is a custom keyboard layout that keeps the familiar **English (US)** key positions while enabling **comfortable German typing**. It also adds a curated set of **typographical** and **mathematical** symbols so you can write clear, beautiful text without digging through character maps.
 
