@@ -18,7 +18,7 @@ The layout is intended for writers, developers, and anyone who prefers the US la
 
 ---
 
-## Installation (Windows 10)
+## Installation (Windows 10, 11)
 
 > If you’ve previously installed an older version, uninstall it first (see [Uninstall](#uninstall)).
 
